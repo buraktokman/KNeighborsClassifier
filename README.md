@@ -4,7 +4,9 @@ Based on the [Let’s Write a Pipeline - Machine Learning Recipes #4](https://ww
 
 # Summary
 Train dataset for train learning model.
+
 Test dataset to see how accurate it is on new data.
 
-Think classifier as a function f(x) = y 
+Think classifier as a function f(x) = y
+
 f(x) -> Features / y -> Label
