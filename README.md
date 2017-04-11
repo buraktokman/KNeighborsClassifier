@@ -7,4 +7,11 @@ Train dataset for train learning model.<br>
 Test dataset to see how accurate it is on new data.<br>
 
 Think classifier as a function f(x) = y <br>
+
+Train dataset for train learning model.<br>
+
+Test dataset to see how accurate it is on new data.<br>
+
+Think classifier as a function f(x) = y<br>
+
 f(x) -> Features / y -> Label
